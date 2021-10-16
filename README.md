@@ -6,8 +6,8 @@
  
  </div>
  <div>
- <img align="right" width="200px" src="https://i.imgflip.com/5qoolp.gif">
- </div><br><br><br><br><br><br><br>
+ <img align="right" width="250px" src="https://i.imgflip.com/5qoolp.gif">
+ </div>
  <h5>"Quem estuda e não pratica o que aprendeu,<br>
-  é como o homem que lavra e não semeia."<br>
+  é como o homem que lavra e não semeia."<br><br>
   Provérbio Árabe
