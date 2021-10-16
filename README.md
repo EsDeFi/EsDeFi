@@ -6,7 +6,7 @@
  
  </div>
  <div>
- <img align="right" width="300px" src="https://i.imgflip.com/5qoolp.gif">
+ <img align="right" width="200px" src="https://i.imgflip.com/5qoolp.gif">
  </div><br><br><br><br><br><br><br>
  <h5>"Quem estuda e não pratica o que aprendeu,<br>
   é como o homem que lavra e não semeia."<br>
