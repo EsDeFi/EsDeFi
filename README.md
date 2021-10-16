@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @EsDeFi
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS, JS and English language. I'm a programming student at university.
+<h2>Olá, sou a EsDeFi<h2>
 
-<!---
-EsDeFi/EsDeFi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4 color="purple">Sou estudante de Sistemas de Informação e atualmente aprendo desenvolvimento web. <br>
+ Gosto muito da área de front-end e pretendo futuramente atuar nesta área.<br>
+  Aqui no Git colocarei um pouco sobre o meu aprendizado, meus novos projetos e testes.</h4>
