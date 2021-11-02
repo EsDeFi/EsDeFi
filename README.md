@@ -5,9 +5,7 @@
  Aqui no Github colocarei um pouco sobre o meu aprendizado, meus novos projetos e testes.</h5>
  
  </div>
- <div>
- <img align="right" width="250px" src="https://i.imgflip.com/5qoolp.gif">
- </div><br>
+
  <h4 align="center">"Quem estuda e não pratica o que aprendeu,<br>
   é como o homem que lavra e não semeia."<br><br>
   ~ Provérbio Árabe</h4>
